@@ -1,97 +1,90 @@
-# 💼 Moemen Mohamed | Portfolio
+[README.md](https://github.com/user-attachments/files/31920573/README.md)
+# 🛡️ Moemen Mohamed | Portfolio
 
-موقع بورتفوليو شخصي (Personal Portfolio Website) لعرض المهارات، الخبرات، المشاريع، والشهادات — مبني بـ HTML و CSS و JavaScript خالصة (بدون أي framework).
+A personal portfolio website for **Moemen Mohamed**, a Computer Science student and aspiring Cybersecurity / SOC (Security Operations Center) professional.
 
-🔗 **الرابط:** [github.com/moemenshendia0-tech/my-portfolio](https://github.com/moemenshendia0-tech/my-portfolio)
-
----
-
-## ✨ المميزات
-
-- 🌗 **وضع ليلي / نهاري (Dark / Light Mode)** قابل للتبديل بزر واحد
-- 📱 **تصميم متجاوب (Responsive)** يشتغل على الموبايل والتابلت والديسكتوب
-- 🧭 **قائمة تنقل (Navbar)** ثابتة مع روابط سلسة (Smooth Scroll) لكل قسم
-- 🧩 أقسام منظمة: Home / About / Skills / Experience / Projects / Certificates / Contact
-- 🔤 خط Outfit من Google Fonts
+🔗 **Live Site:** [moemenshendia0-tech.github.io/my-portfolio](https://moemenshendia0-tech.github.io/my-portfolio/)
 
 ---
 
-## 🗂️ محتوى الموقع
+## 📖 About This Site
 
-| القسم | الوصف |
+This portfolio showcases:
+- Technical skills in cybersecurity and networking
+- Hands-on experience and internships
+- Completed technical projects
+- Certifications and training programs
+- Contact information
+
+---
+
+## 🧩 Main Sections
+
+| Section | Description |
 |---|---|
-| **Home** | صفحة ترحيبية بمقدمة سريعة |
-| **About** | نبذة عن الشخصية |
-| **Skills** | المهارات التقنية |
-| **Experience** | الخبرات العملية |
-| **Projects** | المشاريع المنفذة |
-| **Certificates** | الشهادات الحاصل عليها |
-| **Contact** | وسائل التواصل |
+| 🏠 Home | Welcome and personal introduction |
+| 👤 About | Detailed background and interests |
+| 🛠️ Skills | Technical skills across 4 core areas |
+| 💼 Experience | Work experience and summer internships |
+| 📁 Projects | Practical projects in security and programming |
+| 🎓 Certificates | Certifications and completed courses |
+| 📞 Contact | Direct contact form and info |
 
 ---
 
-## 🛠️ التقنيات المستخدمة
+## 🖥️ Technical Skills
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **Google Fonts** (Outfit)
+**Security Operations**
+- SIEM (Splunk, QRadar)
+- Log Analysis
+- Threat Detection
 
----
+**Network Security**
+- Wireshark · Nmap
+- Cisco / CCNA
+- Firewall · VPN · IDS/IPS
+- Huawei eNSP · Packet Tracer
 
-## 📁 هيكل المشروع
+**Security Tools**
+- Burp Suite · Metasploit
+- Linux · Kali Linux
+- Ethical Hacking Basics
 
-```
-my-portfolio/
-├── assets/         # الصور والملفات الثابتة
-├── index.html      # الصفحة الرئيسية
-├── styles.css       # التنسيقات
-├── script.js        # التفاعلات (الثيم، القائمة، ...)
-└── README.md         # هذا الملف
-```
-
----
-
-## 🚀 طريقة التشغيل محليًا
-
-```bash
-# 1. استنسخ المستودع
-git clone https://github.com/moemenshendia0-tech/my-portfolio.git
-
-# 2. ادخل المجلد
-cd my-portfolio
-
-# 3. افتح index.html في المتصفح مباشرة
-# أو استخدم أي سيرفر محلي بسيط، مثلاً:
-python3 -m http.server 8000
-```
-ثم افتح المتصفح على `http://localhost:8000`
+**Programming & Automation**
+- Python · Bash · SQL · C++ · Java · HTML
 
 ---
 
-## 🌐 النشر (Deployment)
+## 🚀 Featured Projects
 
-بما إنه موقع Static (HTML/CSS/JS فقط)، ينفع تنشره مجانًا على:
-
-- **GitHub Pages**
-- **Netlify**
-- **Vercel**
-
-### مثال لتفعيل GitHub Pages:
-1. روح لإعدادات المستودع (Settings)
-2. اختار **Pages** من القائمة الجانبية
-3. اختار الفرع `main` والمجلد `/root`
-4. احفظ، وهيبقى الموقع متاح على رابط زي:
-   `https://moemenshendia0-tech.github.io/my-portfolio/`
+- 📊 **Automated Security Alert** — Python-based tool that parses system logs in real time and triggers alerts on anomalous behavior
+- 🔒 **Linux Server Hardening** — Security configurations including firewall rules, SSH hardening, and access control
+- 💻 [**Hospital Appointment System**](https://github.com/moemenshendia0-tech/HMAS) — Appointment booking system built with Python and SQL
+- 🧠 [**Edge Detection Model**](https://github.com/moemenshendia0-tech/edge-detection-model) — Computer vision pipeline using Python and OpenCV
+- ⚙️ **Website Checker** — CLI tool that monitors web services and logs downtime
+- 🌐 **Ping Test Tool** — Automated script for testing network connectivity and latency
+- 🔧 **Arduino RC Car** — Bluetooth-controlled car using Arduino
+- 🎮 **Subway Game** — 2D game with scoring, obstacles, and restart features
 
 ---
 
-## 📬 التواصل
+## 🛠️ Built With
 
-لو حابب تتواصل أو عندك اقتراح، تقدر تلاقي وسائل التواصل في قسم **Contact** بالموقع نفسه.
+- HTML5
+- CSS3
+- JavaScript
+- Hosted on **GitHub Pages**
 
 ---
 
-## 📄 الرخصة
+## 📬 Contact
 
-هذا المشروع متاح للاستخدام الشخصي والتعليمي. لو هتستخدمه كقالب، يفضل تدي إشارة للمصدر.
+- ✉️ Email: [moemen.mohamed.it@gmail.com](mailto:moemen.mohamed.it@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/moemen-shendia](https://www.linkedin.com/in/moemen-shendia)
+- 🐙 GitHub: [github.com/moemenshendia0-tech](https://github.com/moemenshendia0-tech)
+
+---
+
+## 📄 License
+
+© Moemen Mohamed. All rights reserved.
